@@ -8,6 +8,7 @@ This project focuses on building an interactive banking analytics dashboard that
 The objective is to transform raw banking data into actionable business insights through structured data processing and visualization.
 
 🔧 Key Features & Implementation
+
 ✔ Data Cleaning & Preparation
 
 Categorized customer income into Low, Mid, and High bands using conditional logic.
